@@ -11,28 +11,28 @@ section {
 }
 
     section.sec1 {
-        background: url(images/ambienteRural.jpg);
+        background: url(images/ambienteRural.jpeg);
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
     }
 
     section.sec2 {
-        background: url(images/teacher.jpg);
+        background: url(images/teacher.jpeg);
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
     }
 
     section.sec3 {
-        background: url(images/coding.jpg);
+        background: url(images/coding.jpeg);
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
     }
 
     section.sec4 {
-        background: url(images/graduation.jpg);
+        background: url(images/graduation.jpeg);
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
