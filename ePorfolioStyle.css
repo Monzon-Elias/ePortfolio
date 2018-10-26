@@ -60,3 +60,9 @@ section
     {
         font-size: 1.6em;
     }
+#projets 
+{
+    display: flex;
+    justify-content:space-between;
+    flex-flow: row nowrap;
+}
