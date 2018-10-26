@@ -1,39 +1,62 @@
-﻿body {
+﻿body 
+{
     margin: 0;
     padding: 0;
     font-family: sans-serif;
 }
 
-section {
+section 
+{
     width: 100%;
     height: 100vh;
     box-sizing: border-box;
 }
 
-    section.sec1 {
+    section.sec1 
+    {
         background: url(images/rural.jpeg);
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
     }
 
-    section.sec2 {
+    section.sec2 
+    {
         background: url(images/teacher.jpeg);
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
     }
 
-    section.sec3 {
+    section.sec3
+    {
         background: url(images/coding.jpeg);
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
     }
 
-    section.sec4 {
+    section.sec4 
+    {
         background: url(images/graduation.jpeg);
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
     }
+        /***************Text style*******************/
+    section.secText
+    {
+        padding: 50px 100px;
+        height: auto;
+    }
+    section.secText h1
+    {
+        margin:0;
+        padding:0;
+        font-size: 50px;
+        color: #262626;
+    }
+        section.secText p
+        {
+            font-size: 3em;
+        }
