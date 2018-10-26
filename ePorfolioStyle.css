@@ -11,7 +11,7 @@ section {
 }
 
     section.sec1 {
-        background: url(ePortfolio/images/ambienteRural.jpeg);
+        background: url(images/ambienteRural.jpeg);
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
