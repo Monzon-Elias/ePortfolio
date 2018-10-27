@@ -76,6 +76,14 @@ section
         grid-gap: 15px;
     }
 
+/***********FOR SMALL SCREENS**************/
+    @media (max-width: 500px)
+    {
+        #projects div
+        {
+            display: block;
+        }
+}
 /*************************TEXT STYLE*********************************/
 
 section.secText
