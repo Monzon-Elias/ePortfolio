@@ -79,9 +79,13 @@ section
 /***********FOR SMALL SCREENS**************/
     @media (max-width: 500px)
     {
-        #projects div
+        #projects
         {
             display: block;
+        }
+        #projects div
+        {
+            margin-bottom: 1em;
         }
 }
 /*************************TEXT STYLE*********************************/
