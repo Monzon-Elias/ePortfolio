@@ -28,6 +28,7 @@ section
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
+        
     }
 
     section.sec2 
@@ -36,6 +37,7 @@ section
         background-size: cover;
         background-position: center center;
         background-attachment: fixed;
+        
     }
 
     section.sec3
@@ -77,6 +79,7 @@ section
     }
 
 /***********FOR SMALL SCREENS**************/
+
     @media (max-width: 500px)
     {
         #projects
