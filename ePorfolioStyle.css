@@ -6,6 +6,8 @@
     min-width: 320px;
 }
 
+img { width: 100%; }
+
 #logo img
 {
     position: absolute;
